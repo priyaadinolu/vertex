@@ -6,7 +6,3 @@
         apt: 
             name: apache2
             state: absent
-      - name: i want to install git
-        apt: 
-            name: git
-            state: present   
